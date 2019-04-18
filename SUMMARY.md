@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Paradigms](README.md)
+* [Initial page](README.md)
 
 ## React
 
@@ -13,6 +13,21 @@
 * [Factorial](tasks/factorial.md)
 * [Fibonacci](tasks/fibonacci.md)
 * [Closure](tasks/closure.md)
+* [Army](tasks/army.md)
 
 ## OOP
+
+* [Paradigms](oop/paradigms.md)
+
+## Patterns
+
+* [Singleton](patterns/singleton.md)
+* [Factory](patterns/factory.md)
+* [Iterator](patterns/iterator.md)
+* [Strategy](patterns/strategy.md)
+* [Facade](patterns/facade.md)
+* [Proxy](patterns/proxy.md)
+* [Observer](patterns/observer.md)
+* [Mediator](patterns/mediator.md)
+* [Decorator](patterns/decorator.md)
 
