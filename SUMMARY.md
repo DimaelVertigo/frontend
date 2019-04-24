@@ -31,3 +31,7 @@
 * [Mediator](patterns/mediator.md)
 * [Decorator](patterns/decorator.md)
 
+## JavaScript
+
+* [Arrays](javascript/arrays.md)
+
