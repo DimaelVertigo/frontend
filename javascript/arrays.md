@@ -11,5 +11,3 @@ description: Witch of methods return new array?
 | [sort\(\)](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/sort) | [map\(\)](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/map) |
 | [reduce\(\)](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce) |  |
 
-
-

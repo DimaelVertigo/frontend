@@ -35,3 +35,7 @@
 
 * [Arrays](javascript/arrays.md)
 
+## Security
+
+* [Object.prototype pollution](security/object.prototype-pollution.md)
+
