@@ -39,3 +39,7 @@
 
 * [Object.prototype pollution](security/object.prototype-pollution.md)
 
+## Perfomance
+
+* [Memory Leak](perfomance/memory-leak.md)
+
