@@ -8,3 +8,5 @@ const fibonacci = n => {
 console.log(fibonacci(7))
 ```
 
+[Фибоначчи на собеседовании](https://habr.com/ru/post/449616/)
+
