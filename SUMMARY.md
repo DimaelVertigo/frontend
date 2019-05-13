@@ -18,6 +18,7 @@
 ## OOP
 
 * [Paradigms](oop/paradigms.md)
+* [Абстракция](oop/abstrakciya.md)
 
 ## Patterns
 
