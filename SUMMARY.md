@@ -35,6 +35,7 @@
 ## JavaScript
 
 * [Arrays](javascript/arrays.md)
+* [URLSearchParams](javascript/urlsearchparams.md)
 
 ## Security
 
