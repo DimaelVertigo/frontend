@@ -47,5 +47,5 @@
 
 ## Engineering
 
-* [Проектиование](engineering/proektiovanie.md)
+* [Проектирование](engineering/proektiovanie.md)
 
