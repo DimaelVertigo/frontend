@@ -184,8 +184,16 @@
 
 ## Web Applications
 
-* [Browser defferences](web-applications/browser-defferences.md)
-* [User interface](web-applications/user-interface.md)
+* [Browser defferences](web-applications/browser-defferences/README.md)
+  * [What technologies available](web-applications/browser-defferences/what-technologies-available.md)
+  * [Other critical differences](web-applications/browser-defferences/other-critical-differences.md)
+  * [Using shims/polyfills](web-applications/browser-defferences/untitled.md)
+* [User interface](web-applications/user-interface/README.md)
+  * [Layout](web-applications/user-interface/layout.md)
+  * [Grid](web-applications/user-interface/grid.md)
+  * [Styling form elements](web-applications/user-interface/untitled-2.md)
+  * [Rich text editing](web-applications/user-interface/untitled-1.md)
+  * [Progress indicators](web-applications/user-interface/untitled.md)
 * [Architecture](web-applications/architecture.md)
 * [Routing](web-applications/routing.md)
 * [Change detection](web-applications/change-detection.md)
