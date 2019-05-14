@@ -1,0 +1,2 @@
+# Global object \(window\)
+

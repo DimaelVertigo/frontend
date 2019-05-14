@@ -4,15 +4,25 @@
 
 ## JavaScript
 
-* [Arrays](javascript/arrays.md)
-* [URLSearchParams](javascript/urlsearchparams.md)
-* [Scope](javascript/scope.md)
+* [Basics](javascript/basics/README.md)
+  * [Syntax](javascript/basics/syntax.md)
+  * [Type system](javascript/basics/type-system.md)
+  * [Operators](javascript/basics/operators.md)
+* [Scope](javascript/scope/README.md)
+  * [Global vs local](javascript/scope/global-vs-local.md)
+  * [Hoisting](javascript/scope/hoisting.md)
+  * [Global object \(window\)](javascript/scope/global-object-window.md)
+  * [This](javascript/scope/this.md)
+  * [Bind](javascript/scope/bind.md)
+  * [Closures](javascript/scope/closures.md)
 * [Functional programming](javascript/functional-programming.md)
 * [Asynchronous execution](javascript/asynchronous-execution.md)
 * [Error handling](javascript/error-handling.md)
 * [ECMAScript 6](javascript/ecmascript-6.md)
 * [TypeScript](javascript/typescript.md)
 * [Regular expressions](javascript/regular-expressions.md)
+* [URLSearchParams](javascript/urlsearchparams.md)
+* [Arrays](javascript/arrays.md)
 
 ## HTML/DOM
 
