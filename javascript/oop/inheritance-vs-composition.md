@@ -1,0 +1,2 @@
+# Inheritance vs composition
+
