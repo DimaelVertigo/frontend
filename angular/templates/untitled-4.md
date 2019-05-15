@@ -1,0 +1,6 @@
+---
+description: Events
+---
+
+# Template statements
+
