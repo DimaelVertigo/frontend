@@ -354,10 +354,10 @@
   * [JSX](react/rendering/jsx.md)
   * [Conditional rendering](react/rendering/conditional-rendering.md)
   * [Preventing rendering](react/rendering/untitled.md)
-* [Events](react/events.md)
-* [Synthetic Events](react/synthetic-events.md)
-* [Handling bubbling/capturing](react/untitled-1.md)
-* [Adding events to DOM elements](react/untitled.md)
+* [Events](react/events/README.md)
+  * [Synthetic Events](react/events/synthetic-events.md)
+  * [Handling bubbling/capturing](react/events/untitled-1.md)
+  * [Adding events to DOM elements](react/events/untitled.md)
 * [State management](react/state-management/README.md)
   * [Flux/Redux](react/state-management/flux-redux.md)
   * [Reducers](react/state-management/reducers.md)
@@ -377,44 +377,6 @@
   * [Jest](react/testing/untitled-2.md)
   * [Shallow Rendering](react/testing/untitled-1.md)
   * [Simulate](react/testing/untitled.md)
-
-## Tasks
-
-* [Isogram](tasks/isogram.md)
-* [Stack](tasks/stack.md)
-* [Factorial](tasks/factorial.md)
-* [Fibonacci](tasks/fibonacci.md)
-* [Closure](tasks/closure.md)
-* [Army](tasks/army.md)
-
-## OOP
-
-* [Paradigms](oop/paradigms.md)
-* [Абстракция](oop/abstrakciya.md)
-
-## Patterns
-
-* [Singleton](patterns/singleton.md)
-* [Factory](patterns/factory.md)
-* [Iterator](patterns/iterator.md)
-* [Strategy](patterns/strategy.md)
-* [Facade](patterns/facade.md)
-* [Proxy](patterns/proxy.md)
-* [Observer](patterns/observer.md)
-* [Mediator](patterns/mediator.md)
-* [Decorator](patterns/decorator.md)
-
-## Security
-
-* [Object.prototype pollution](security/object.prototype-pollution.md)
-
-## Perfomance
-
-* [Memory Leak](perfomance/memory-leak.md)
-
-## Engineering
-
-* [Проектирование](engineering/proektiovanie.md)
 
 ## Angular
 
@@ -476,4 +438,42 @@
   * [DebugElement](angular/testing/untitled-2.md)
   * [Change detection](angular/testing/untitled-1.md)
   * [async beforeEach](angular/testing/untitled.md)
+
+## Tasks
+
+* [Isogram](tasks/isogram.md)
+* [Stack](tasks/stack.md)
+* [Factorial](tasks/factorial.md)
+* [Fibonacci](tasks/fibonacci.md)
+* [Closure](tasks/closure.md)
+* [Army](tasks/army.md)
+
+## OOP
+
+* [Paradigms](oop/paradigms.md)
+* [Абстракция](oop/abstrakciya.md)
+
+## Patterns
+
+* [Singleton](patterns/singleton.md)
+* [Factory](patterns/factory.md)
+* [Iterator](patterns/iterator.md)
+* [Strategy](patterns/strategy.md)
+* [Facade](patterns/facade.md)
+* [Proxy](patterns/proxy.md)
+* [Observer](patterns/observer.md)
+* [Mediator](patterns/mediator.md)
+* [Decorator](patterns/decorator.md)
+
+## Security
+
+* [Object.prototype pollution](security/object.prototype-pollution.md)
+
+## Perfomance
+
+* [Memory Leak](perfomance/memory-leak.md)
+
+## Engineering
+
+* [Проектирование](engineering/proektiovanie.md)
 
