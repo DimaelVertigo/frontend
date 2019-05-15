@@ -38,7 +38,7 @@
   * [Promises](javascript/asynchronous-execution/promises.md)
   * [Workers](javascript/asynchronous-execution/workers.md)
   * [setImmediate](javascript/asynchronous-execution/setimmediate.md)
-  * [micro tasks](javascript/asynchronous-execution/micro-tasks.md)
+  * [Micro tasks](javascript/asynchronous-execution/micro-tasks.md)
 * [Error handling](javascript/error-handling/README.md)
   * [Exceptions](javascript/error-handling/exceptions.md)
   * [ErrorEvent](javascript/error-handling/errorevent.md)
