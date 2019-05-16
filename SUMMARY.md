@@ -184,7 +184,7 @@
 
 ## Web Applications
 
-* [Browser defferences](web-applications/browser-defferences/README.md)
+* [Browser differences](web-applications/browser-defferences/README.md)
   * [What technologies available](web-applications/browser-defferences/what-technologies-available.md)
   * [Other critical differences](web-applications/browser-defferences/other-critical-differences.md)
   * [Using shims/polyfills](web-applications/browser-defferences/untitled.md)
