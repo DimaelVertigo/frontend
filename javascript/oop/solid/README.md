@@ -6,5 +6,3 @@
 * **I: Interface Segregation Principle** \(Принцип разделения интерфейса\).
 * **D: Dependency Inversion Principle** \(Принцип инверсии зависимостей\).
 
-
-
