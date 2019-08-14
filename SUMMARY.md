@@ -130,6 +130,7 @@
   * [defer/async](html-dom/resource-loading/defer-async.md)
   * [onLoad vs DOMContentLoaded](html-dom/resource-loading/untitled-1.md)
 * [Web Components](html-dom/web-components/README.md)
+  * [Polymer](html-dom/web-components/polymer.md)
   * [Shadow DOM](html-dom/web-components/shadow-dom.md)
   * [Custom elements](html-dom/web-components/custom-elements.md)
   * [Template](html-dom/web-components/untitled-1.md)
