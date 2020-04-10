@@ -94,6 +94,7 @@
 * [URLSearchParams](javascript/urlsearchparams.md)
 * [Arrays](javascript/arrays.md)
 * [Autoboxing](javascript/autoboxing.md)
+* [Data structures](javascript/data-structures.md)
 
 ## HTML/DOM
 
@@ -458,6 +459,7 @@
 * [Fibonacci](tasks/fibonacci.md)
 * [Closure](tasks/closure.md)
 * [Army](tasks/army.md)
+* [Graffs](tasks/graffs.md)
 
 ## OOP
 
