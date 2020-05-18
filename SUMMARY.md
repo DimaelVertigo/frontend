@@ -376,6 +376,7 @@
   * [States](react/state-management/untitled-2.md)
   * [Store](react/state-management/untitled-1.md)
   * [mapStateToProps/mapDispatchToProps](react/state-management/untitled.md)
+  * [Context](react/state-management/context.md)
 * [Routing](react/routing/README.md)
   * [react-router+redux](react/routing/react-router+redux.md)
   * [Configuration](react/routing/configuration.md)
