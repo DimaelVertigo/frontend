@@ -1,5 +1,7 @@
 ---
-description: 'lifetime, gotchas with loops'
+description: >-
+  Замыкание – это функция вместе со всеми внешними переменными, которые ей
+  доступны.
 ---
 
 # Closures
