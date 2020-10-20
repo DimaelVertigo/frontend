@@ -454,6 +454,7 @@
 
 ## Tasks
 
+* [Shortlist](tasks/shortlist.md)
 * [Isogram](tasks/isogram.md)
 * [Stack](tasks/stack.md)
 * [Factorial](tasks/factorial.md)
