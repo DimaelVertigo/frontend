@@ -494,5 +494,5 @@
 
 ---
 
-* [New](new.md)
+* [Mock](new.md)
 
