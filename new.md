@@ -1,6 +1,6 @@
 # Mock
 
-* [ ] GraphQA
+* [ ] GraphQL
 * [ ] Styled Components
 * [ ] React Hooks
 * [ ] уникальность массива сделать
