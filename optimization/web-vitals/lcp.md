@@ -4,7 +4,9 @@ description: Largest Contentful Paint
 
 # LCP
 
+{% hint style="info" %}
 The **render time** of the **largest content element** visible **in the viewport**.
+{% endhint %}
 
 ### Content elements:
 
