@@ -496,3 +496,8 @@
 
 * [Mock](new.md)
 
+## Optimization
+
+* [Web Vitals](optimization/web-vitals/README.md)
+  * [LCP](optimization/web-vitals/lcp.md)
+
