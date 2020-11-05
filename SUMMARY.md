@@ -209,6 +209,8 @@
   * [MVC/MVVM/MVP](web-applications/architecture/mvc-mvvm-mvp/README.md)
     * [Angular](web-applications/architecture/mvc-mvvm-mvp/angular.md)
   * [Data flow](web-applications/architecture/data-flow/README.md)
+    * [MobX](web-applications/architecture/data-flow/mobx/README.md)
+      * [MST](web-applications/architecture/data-flow/mobx/mst.md)
     * [Flux](web-applications/architecture/data-flow/flux.md)
     * [Redux](web-applications/architecture/data-flow/redux/README.md)
       * [Thunk](web-applications/architecture/data-flow/redux/thunk.md)
