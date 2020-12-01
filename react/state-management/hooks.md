@@ -6,7 +6,16 @@ description: >-
 
 # Hooks
 
-\*\*\*\*[**https://www.youtube.com/watch?v=9KJxaFHotqI&ab\_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD**](https://www.youtube.com/watch?v=9KJxaFHotqI&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD)\*\*\*\*
+{% embed url="https://www.youtube.com/watch?v=9KJxaFHotqI&ab\_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD" %}
+
+* `useState` __– наделяет функциональный компонент внутренним состоянием. React будет хранить это состояние между рендерами. Вызов `useState` возвращает две вещи: _текущее_ значение состояния и функцию для его обновления.
+* `useEffect` __– можно выполнять побочные эффекты из функционального компонента. Он выполняет ту же роль, что и `componentDidMount`, `componentDidUpdate` и `componentWillUnmount`
+* `useRef`– обеспечивает доступ к потомку в императивном стиле.
+* `useMemo` _–_ для оптимизации \(кэширование\).
+* `useCallback` __– для оптимизации, возвращает функцию.
+* `useContext` – позволяет передавать данные через дерево компонентов без необходимости передавать пропсы на промежуточных уровнях.
+* `useReducer` – Альтернатива для `useState` . Принимает редюсер типа `(state, action) => newState` и возвращает текущее состояние в паре с методом `dispatch`. Подобно Redux.
+* _custom hooks –_ использование хуков вне реакт-компонентов.
 
 **100% обратно совместимы.** Хуки не содержат изменений, которые могут поломать ваш существующий код.
 
