@@ -62,3 +62,32 @@ console.log(memoizedAdd(4));  // вычислено
 console.log(memoizedAdd(4));  // взято из кэша
 ```
 
+
+
+### Мемоизация рекурсивных функций
+
+```javascript
+// уже знакомая нам функция memoize
+const memoize = fn => {
+  let cache = {};
+  return (...args) => {
+    let n = args[0];
+    if (n in cache) {
+      console.log("Fetching from cache", n);
+      return cache[n];
+    } else {
+      console.log("Calculating result", n);
+      let result = fn(n);
+      cache[n] = result;
+      return result;
+    }
+  };
+};
+const factorial = memoize(n => {
+  return n === 1 ? n : n * factorial(n - 1);
+});
+
+console.log(factorial(5)); // вычислено
+console.log(factorial(6)); // вычислено для 6, но для предыдущих значений взято из кэша
+```
+
