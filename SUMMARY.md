@@ -467,6 +467,7 @@
 * [Closure](tasks/closure.md)
 * [Army](tasks/army.md)
 * [Graffs](tasks/graffs.md)
+* [Unique array](tasks/unique-array.md)
 
 ## OOP
 
