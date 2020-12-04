@@ -94,7 +94,8 @@
 * [URLSearchParams](javascript/urlsearchparams.md)
 * [Arrays](javascript/arrays.md)
 * [Autoboxing](javascript/autoboxing.md)
-* [Data structures](javascript/data-structures.md)
+* [Data structures](javascript/data-structures/README.md)
+  * [Linked Lists](javascript/data-structures/linked-lists.md)
 
 ## HTML/DOM
 
