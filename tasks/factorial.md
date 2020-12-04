@@ -8,3 +8,9 @@ const factorial = n => {
 console.log(factorial(5));
 ```
 
+Можно использовать мемоизацию, чтобы не пересчитывать значения
+
+{% page-ref page="memo-code.md" %}
+
+
+

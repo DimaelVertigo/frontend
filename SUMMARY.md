@@ -493,12 +493,15 @@
 * [Stack](tasks/stack.md)
 * [Factorial](tasks/factorial.md)
 * [Fibonacci](tasks/fibonacci.md)
-* [Closure](tasks/closure.md)
+* [Closure](tasks/closure/README.md)
+  * [Custom bind\(\)](tasks/closure/custom-bind.md)
 * [Army](tasks/army.md)
 * [Graffs](tasks/graffs.md)
-* [Unique array](tasks/unique-array.md)
-* [Memo \[code\]](tasks/memo-code.md)
+* [Memo, cashing](tasks/memo-code.md)
 * [Palindrome](tasks/palindrome.md)
+* [Binary search algorithm](tasks/binary-search-algorithm.md)
+* [Arrays](tasks/arrays/README.md)
+  * [Unique array](tasks/arrays/unique-array.md)
 
 ---
 
