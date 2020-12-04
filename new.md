@@ -14,6 +14,9 @@
 * [ ] Linked List
 * [ ] задача на графы
 * [ ] написать реализацию метода slice
+* [ ] // stack & manager hype 
+* [ ] // a && b 
+* [ ] // ...o1 shallow copy // microservices
 
 
 

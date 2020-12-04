@@ -457,19 +457,6 @@
   * [Change detection](angular/testing/untitled-1.md)
   * [async beforeEach](angular/testing/untitled.md)
 
-## Tasks
-
-* [Shortlist](tasks/shortlist.md)
-* [Isogram](tasks/isogram.md)
-* [Stack](tasks/stack.md)
-* [Factorial](tasks/factorial.md)
-* [Fibonacci](tasks/fibonacci.md)
-* [Closure](tasks/closure.md)
-* [Army](tasks/army.md)
-* [Graffs](tasks/graffs.md)
-* [Unique array](tasks/unique-array.md)
-* [Memo \[code\]](tasks/memo-code.md)
-
 ## OOP
 
 * [Paradigms](oop/paradigms.md)
@@ -498,6 +485,20 @@
 ## Engineering
 
 * [Проектирование](engineering/proektiovanie.md)
+
+## Tasks
+
+* [Shortlist](tasks/shortlist.md)
+* [Isogram](tasks/isogram.md)
+* [Stack](tasks/stack.md)
+* [Factorial](tasks/factorial.md)
+* [Fibonacci](tasks/fibonacci.md)
+* [Closure](tasks/closure.md)
+* [Army](tasks/army.md)
+* [Graffs](tasks/graffs.md)
+* [Unique array](tasks/unique-array.md)
+* [Memo \[code\]](tasks/memo-code.md)
+* [Palindrome](tasks/palindrome.md)
 
 ---
 
