@@ -503,6 +503,7 @@
 * [Binary search algorithm](tasks/binary-search-algorithm.md)
 * [Arrays](tasks/arrays/README.md)
   * [Unique array](tasks/arrays/unique-array.md)
+  * [custom map\(\)](tasks/arrays/custom-map.md)
 
 ---
 
