@@ -18,6 +18,15 @@
 * [ ] // stack & manager hype 
 * [ ] // a && b 
 * [ ] // ...o1 shallow copy // microservices
+* [ ] промисы, race, all
+* [ ] геттеры/сетеры в объекте
+* [ ] дескрипторы свойств объекта
+* [ ] Object freeze, seal
+* [ ] WeakSet
+
+
+
+
 
 
 
