@@ -1,4 +1,4 @@
-# Custom bind\(\)
+# custom bind\(\)
 
 ```javascript
 function bind(context, fn) {

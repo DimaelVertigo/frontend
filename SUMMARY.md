@@ -490,12 +490,14 @@
 ## Tasks
 
 * [Shortlist](tasks/shortlist.md)
+* [Custom methods](tasks/custom-methods/README.md)
+  * [custom bind\(\)](tasks/custom-methods/custom-bind.md)
+  * [custom map\(\)](tasks/custom-methods/custom-map.md)
 * [Isogram](tasks/isogram.md)
 * [Stack](tasks/stack.md)
 * [Factorial](tasks/factorial.md)
 * [Fibonacci](tasks/fibonacci.md)
-* [Closure](tasks/closure/README.md)
-  * [Custom bind\(\)](tasks/closure/custom-bind.md)
+* [Closure](tasks/closure.md)
 * [Army](tasks/army.md)
 * [Graffs](tasks/graffs.md)
 * [Memo, cashing](tasks/memo-code.md)
@@ -503,7 +505,6 @@
 * [Binary search algorithm](tasks/binary-search-algorithm.md)
 * [Arrays](tasks/arrays/README.md)
   * [Unique array](tasks/arrays/unique-array.md)
-  * [custom map\(\)](tasks/arrays/custom-map.md)
 
 ---
 
