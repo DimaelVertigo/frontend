@@ -493,6 +493,7 @@
 * [Custom methods](tasks/custom-methods/README.md)
   * [custom bind\(\)](tasks/custom-methods/custom-bind.md)
   * [custom map\(\)](tasks/custom-methods/custom-map.md)
+* [custom filter\(\)](tasks/custom-filter.md)
 * [Isogram](tasks/isogram.md)
 * [Stack](tasks/stack.md)
 * [Factorial](tasks/factorial.md)
