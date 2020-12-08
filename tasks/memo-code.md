@@ -28,7 +28,32 @@ console.log(newAdd(9)); // взято из кэша
 
 Переменная `cache` может хранить данные между вызовами функции, так как она определена в [замыкании](https://developer.mozilla.org/en/docs/Web/JavaScript/Closures).
 
+С использованием `Map()`
 
+```javascript
+const add = n => n + 10;
+add(9);
+
+const memoizedAdd = () => {
+  let cache = new Map();
+
+  return n => {
+    if (cache.has(n)) {
+      console.log("Fetching from cache");
+      return cache.get(n);
+    } else {
+      console.log("Calculating result");
+      let result = n + 10;
+      cache.set(n, result);
+      return result;
+    }
+  };
+};
+// эту функцию возвратит memoizedAdd
+const newAdd = memoizedAdd();
+console.log(newAdd(9)); // вычислено
+console.log(newAdd(9)); // взято из кэша
+```
 
 Функция `memoize` способна превращать другие функции в их эквиваленты с мемоизацией
 
