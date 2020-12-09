@@ -1,0 +1,2 @@
+# Abstract class and interface
+

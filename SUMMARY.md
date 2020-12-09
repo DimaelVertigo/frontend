@@ -464,6 +464,7 @@
 
 * [Paradigms](oop/paradigms.md)
 * [Абстракция](oop/abstrakciya.md)
+* [Abstract class and interface](oop/abstract-class-and-interface.md)
 
 ## Patterns
 
@@ -509,6 +510,7 @@
 * [Binary search algorithm](tasks/binary-search-algorithm.md)
 * [Arrays](tasks/arrays/README.md)
   * [Unique array](tasks/arrays/unique-array.md)
+  * [Merge two sorted arrays](tasks/arrays/merge-two-sorted-arrays.md)
 
 ---
 
