@@ -21,3 +21,22 @@ console.log(array.myFilter(i => i < 3));
 console.log(Array.prototype.myFilter(i => i < 3, array2));
 ```
 
+```javascript
+const array = [1, 2, 3, 4, 5];
+const array2 = [6, 7, 8, 9, 0];
+
+function myFilter(array, fn) {
+  const result = [];
+  const len = array.length;
+
+  for (let i = 0; i < len; i++) {
+    if (fn(array[i])) {
+      result.push(i);
+    }
+  }
+  return result;
+}
+
+console.log(myFilter(array, i => i < 3));
+```
+
