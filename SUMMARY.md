@@ -65,6 +65,8 @@
   * [Proxy](javascript/ecmascript-6/proxy.md)
   * [Reflection](javascript/ecmascript-6/reflection.md)
   * [Transpilers](javascript/ecmascript-6/transpilers.md)
+  * [Map](javascript/ecmascript-6/map.md)
+  * [Set](javascript/ecmascript-6/set.md)
   * [WeakMap](javascript/ecmascript-6/weakmap.md)
   * [WeakSet](javascript/ecmascript-6/weakset.md)
 * [TypeScript](javascript/typescript/README.md)
