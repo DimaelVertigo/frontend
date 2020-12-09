@@ -24,6 +24,8 @@ console.log(array.myMap(item => item + 1));
 As a function:
 
 ```javascript
+const array = [1, 2, 3, 4, 5];
+
 function map(arr, callback) {
   const len = arr.length;
   const result = new Array(len);
