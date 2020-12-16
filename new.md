@@ -19,7 +19,7 @@
 * [x] // a && b 
 * [ ] // ...o1 shallow copy 
 * [x] // microservices
-* [ ] промисы, race, all
+* [x] промисы, race, all
 * [x] геттеры/сетеры в объекте
 * [x] дескрипторы свойств объекта
 * [x] Object freeze, seal
