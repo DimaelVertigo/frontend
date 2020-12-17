@@ -15,7 +15,7 @@
 * [ ] задача на графы
 * [x] написать реализацию метода `slice`
 * [x] написать реализацию метода `map`
-* [ ] // stack & manager hype 
+* [ ] stack & managed heap \(управляемая куча\)
 * [x] // a && b 
 * [ ] // ...o1 shallow copy 
 * [x] // microservices
