@@ -26,6 +26,8 @@
 * [x] WeakSet
 * [x] интерфейс 
 * [x] абстрактный класс
+* [ ] EventEmmiter \(Publisher/Subscriber\)
+* [ ] redux-like class with getState\(\), subcribe/unsubscribe methods
 
 
 
