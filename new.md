@@ -26,7 +26,7 @@
 * [x] WeakSet
 * [x] интерфейс 
 * [x] абстрактный класс
-* [ ] EventEmmiter \(Publisher/Subscriber\)
+* [ ] EventEmmiter \(Publisher/Subscriber\)  он же шаблон Observer [https://github.com/CodeDraken/emtr/blob/master/emitter.js](https://github.com/CodeDraken/emtr/blob/master/emitter.js)
 * [ ] redux-like class with getState\(\), subcribe/unsubscribe methods
 
 
