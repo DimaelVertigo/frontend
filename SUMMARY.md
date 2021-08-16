@@ -2,6 +2,40 @@
 
 * [Handbook](README.md)
 
+## Checklist <a id="checklist-1"></a>
+
+* [Checklist](checklist-1/checklist/README.md)
+  * [JS Core](checklist-1/checklist/js-core/README.md)
+    * [15.Які існують типи даних у JS?](checklist-1/checklist/js-core/15.yaki-isnuyut-tipi-danikh-u-js.md)
+    * [16.Як перевірити, чи об’єкт є масивом?](checklist-1/checklist/js-core/16.yak-pereviriti-chi-obyekt-ye-masivom.md)
+    * [17.Як перевірити, чи число є скінченним?](checklist-1/checklist/js-core/17.yak-pereviriti-chi-chislo-ye-skinchennim.md)
+    * [18.Як перевірити, що змінна рівна NaN?](checklist-1/checklist/js-core/18.yak-pereviriti-sho-zminna-rivna-nan.md)
+    * [19.Чим відрізняється поведінка isNaN\(\) та Number.isNaN\(\)?](checklist-1/checklist/js-core/19.chim-vidriznyayetsya-povedinka-isnan-ta-number.isnan.md)
+    * [20.Порівняйте ключові слова var, let, const.](checklist-1/checklist/js-core/20.porivnyaite-klyuchovi-slova-var-let-const..md)
+    * [21.Що таке область видимості?](checklist-1/checklist/js-core/21.sho-take-oblast-vidimosti.md)
+    * [22.Що таке деструктуризація?](checklist-1/checklist/js-core/22.sho-take-destrukturizaciya.md)
+    * [23.Для чого призначені методи setTimeout і setInterval?](checklist-1/checklist/js-core/23.dlya-chogo-priznacheni-metodi-settimeout-i-setinterval.md)
+    * [24.Порівняйте підходи роботи з асинхронним кодом: сallbacks vs promises vs async/await.](checklist-1/checklist/js-core/24.porivnyaite-pidkhodi-roboti-z-asinkhronnim-kodom-sallbacks-vs-promises-vs-async-await..md)
+    * [25.Чи можна записувати нові властивості / функції в прототипи стандартних класів \(Array, Object тощо](checklist-1/checklist/js-core/25.chi-mozhna-zapisuvati-novi-vlastivosti-funkciyi-v-prototipi-standartnikh-klasiv-array-object-tosh.md)
+    * [26.Назвіть методи масивів, які пам’ятаєте, і скажіть, для чого вони потрібні.](checklist-1/checklist/js-core/26.nazvit-metodi-masiviv-yaki-pamyatayete-i-skazhit-dlya-chogo-voni-potribni..md)
+    * [27.Які перебираючі методи масиву знаєте? У чому їхня відмінність?](checklist-1/checklist/js-core/27.yaki-perebirayuchi-metodi-masivu-znayete-u-chomu-yikhnya-vidminnist.md)
+    * [28.Як працюють оператори присвоєння / порівняння / рядкові / арифметичні / бітові тощо?](checklist-1/checklist/js-core/28.yak-pracyuyut-operatori-prisvoyennya-porivnyannya-ryadkovi-arifmetichni-bitovi-tosho.md)
+    * [29.Опишіть призначення і принципи роботи з колекціями Map і Set.](checklist-1/checklist/js-core/29.opishit-priznachennya-i-principi-roboti-z-kolekciyami-map-i-set..md)
+    * [30.Що означає глибока \(deep\) та поверхнева \(shallow\) копія об’єкта? Як зробити кожну з них?](checklist-1/checklist/js-core/30.sho-oznachaye-gliboka-deep-ta-poverkhneva-shallow-kopiya-obyekta-yak-zrobiti-kozhnu-z-nikh.md)
+  * [Common](checklist-1/checklist/common/README.md)
+    * [1.Які методи HTTP-запитів ви знаєте?](checklist-1/checklist/common/1.yaki-metodi-http-zapitiv-vi-znayete.md)
+    * [2.Які версії HTTP-протоколу вам відомі?](checklist-1/checklist/common/2.yaki-versiyi-http-protokolu-vam-vidomi.md)
+    * [3.Які знаєте коди відповіді \(стану\) HTTP?](checklist-1/checklist/common/3.yaki-znayete-kodi-vidpovidi-stanu-http.md)
+    * [4.Що таке Cross-Origin Resource Sharing? Як усунути проблеми з CORS?](checklist-1/checklist/common/4.sho-take-cross-origin-resource-sharing-yak-usunuti-problemi-z-cors.md)
+    * [5.Що таке cookie?](checklist-1/checklist/common/5.sho-take-cookie.md)
+    * [6.Який максимальний розмір cookie?](checklist-1/checklist/common/6.yakii-maksimalnii-rozmir-cookie.md)
+    * [7.Що означає директива use strict?](checklist-1/checklist/common/7.sho-oznachaye-direktiva-use-strict.md)
+    * [8.Чим JS відрізняється під час роботи на front-end і back-end?](checklist-1/checklist/common/8.chim-js-vidriznyayetsya-pid-chas-roboti-na-front-end-i-back-end.md)
+    * [9.Що таке статична і динамічна типізації?](checklist-1/checklist/common/9.sho-take-statichna-i-dinamichna-tipizaciyi.md)
+    * [10.Як клієнт взаємодіє із сервером?](checklist-1/checklist/common/10.yak-kliyent-vzayemodiye-iz-serverom.md)
+    * [11.Що таке REST?](checklist-1/checklist/common/11.sho-take-rest.md)
+    * [12.Поясніть поняття мутабельність / іммутабельність? Які типи є мутабельними й навпаки?](checklist-1/checklist/common/12.poyasnit-ponyattya-mutabelnist-immutabelnist-yaki-tipi-ye-mutabelnimi-i-navpaki.md)
+
 ## JavaScript
 
 * [Basics](javascript/basics/README.md)
@@ -515,7 +549,6 @@
 ---
 
 * [Mock](new.md)
-* [Checklist](checklist.md)
 
 ## Optimization
 
