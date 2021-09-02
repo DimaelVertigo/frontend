@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Handbook](README.md)
+* [Questions](questions.md)
 
 ## Checklist <a id="checklist-1"></a>
 
